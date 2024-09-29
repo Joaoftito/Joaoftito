@@ -1,11 +1,12 @@
 ## Hi there 👋
 
+img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/gran-turismo-black-impreza-gif-7047171080972541829"
 <!--
 **Joaoftito/Joaoftito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/gran-turismo-black-impreza-gif-7047171080972541829">
+img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/gran-turismo-black-impreza-gif-7047171080972541829"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
